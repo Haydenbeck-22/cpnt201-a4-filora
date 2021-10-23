@@ -6,8 +6,8 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 (Include name as a link to the person's github repo)
 
-- Maintainer: [Hayden](github.com/Haydenbeck-22)
-- Collaborator: [Filora](github.com/aeoyu)
+- Maintainer: [Filora](github.com/aeoyu)
+- Collaborator: [Hayden](github.com/Haydenbeck-22)
 - Contributor: [Mysia](github.com/Mysia14) , [Jean Marc](github.com/QDetective)
 
 ## Rules

@@ -1,1 +1,4 @@
 node_modules/
+*commit-log.md
+.DS_Store
+.vscode
